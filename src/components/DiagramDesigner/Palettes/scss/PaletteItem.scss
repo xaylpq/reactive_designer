@@ -1,0 +1,15 @@
+@import "../../../../assets/scss/variables";
+
+.diagram-designer__palette-item {
+  color: $comindwareOrange;
+  background-color: #545454;
+  cursor: pointer;
+  border: 1px solid $comindwareBlue;
+  border-radius: $borderRadius;
+  margin: 5px 2px;
+  text-align: center;
+  padding-top: 4px;
+  width: 45px;
+  height: 20px;
+  font-size: 12px;
+}

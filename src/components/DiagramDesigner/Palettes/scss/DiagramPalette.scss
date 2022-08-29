@@ -1,0 +1,10 @@
+@import "../../../../assets/scss/variables";
+
+.diagram-designer__palette {
+  background-color: $comindwareHighlight;
+  border: 1px solid $comindwareBlue;
+  border-radius: $borderRadius;
+  top: 10px;
+  left: 10px;
+  position: absolute;
+}

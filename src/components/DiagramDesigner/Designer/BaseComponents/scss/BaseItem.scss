@@ -1,0 +1,13 @@
+@import "./src/assets/scss/variables.scss";
+
+.diagram-designer__item {
+  color: $comindwareOrange;
+  background-color: $tc__highlight;
+  cursor: pointer;
+  border: 1px solid $comindwareBlue;
+  border-radius: $borderRadius;
+  margin: 10px;
+  text-align: center;
+  padding-top: 10px;
+  position: absolute;
+}
